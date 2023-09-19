@@ -1,0 +1,20 @@
+body {
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+
+.text-field {
+    width: 300px;
+    height: 50px;
+    border: 2px solid grey;
+    border-radius: 15px;
+}
+
+.buttons :hover {
+    color: red;
+    background-color: black;
+    cursor: pointer;
+    border: 2px solid red;
+}
