@@ -18,3 +18,19 @@ body {
     cursor: pointer;
     border: 2px solid red;
 }
+
+.buttons {
+    font-family: 'OpenSans' monospace;
+    font-weight: 800;
+}
+
+input {
+    font-family: 'Montserrat', monospace;
+    color: blueviolet;
+    font-style: italic;
+}
+
+.select .radio .checkbox {
+    font-family: 'Montserrat';
+    font-size: 15pt;
+}
