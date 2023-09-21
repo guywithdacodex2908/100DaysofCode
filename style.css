@@ -2,6 +2,14 @@ body {
     margin-left: 20px;
     margin-top: 50px;
     margin-bottom: 20px;
+    align-self: center;
+    border: 2px solid rgba(128, 128, 128, 0);
+    border-radius: 30px;
+    box-shadow: 10px 8px 6px grey;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    width: 450px;
 }
 
 
@@ -13,20 +21,21 @@ body {
 }
 
 .buttons :hover {
-    color: red;
+    color: white;
     background-color: black;
     cursor: pointer;
-    border: 2px solid red;
+    border: 2px solid white;
 }
 
 .buttons {
-    font-family: 'OpenSans' monospace;
+    font-family: 'Montserrat';
     font-weight: 800;
+    color: white;
 }
 
 input {
-    font-family: 'Montserrat', monospace;
-    color: blueviolet;
+    font-family: 'Montserrat';
+    
     font-style: italic;
 }
 
